@@ -1,0 +1,12 @@
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\Interop.VBScript_RegExp_10.dll
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\Interop.VBScript_RegExp_55.dll
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\UnderstandFANN.csproj.ResolveComReference.cache
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\UnderstandFANN.csproj.CoreCompileInputs.cache
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\bin\x86\Debug\UnderstandFANN.exe.config
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\bin\x86\Debug\UnderstandFANN.exe
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\bin\x86\Debug\UnderstandFANN.pdb
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\bin\x86\Debug\FANNCSharp.dll
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\UnderstandFANN.csproj.CopyComplete
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\UnderstandFANN.exe
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\UnderstandFANN.pdb
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x86\Debug\UnderstandFANN.csprojAssemblyReference.cache

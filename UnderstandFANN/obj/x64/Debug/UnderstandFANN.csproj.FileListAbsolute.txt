@@ -1,0 +1,4 @@
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x64\Debug\Interop.VBScript_RegExp_10.dll
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x64\Debug\Interop.VBScript_RegExp_55.dll
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x64\Debug\UnderstandFANN.csproj.ResolveComReference.cache
+D:\M2\IAM2\Fanned\UnderstandFANN\UnderstandFANN\obj\x64\Debug\UnderstandFANN.csproj.CoreCompileInputs.cache
